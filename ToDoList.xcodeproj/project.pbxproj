@@ -14,7 +14,6 @@
 		7C0962BC1F26ACBC00469F79 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C0962BB1F26ACBC00469F79 /* Assets.xcassets */; };
 		7C0962BF1F26ACBC00469F79 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C0962BD1F26ACBC00469F79 /* LaunchScreen.storyboard */; };
 		7C41541F1F28BE90002E993B /* CompleteTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41541E1F28BE90002E993B /* CompleteTaskViewController.swift */; };
-		7C49C8F71F27EF9F000B1223 /* task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C49C8F61F27EF9F000B1223 /* task.swift */; };
 		7C49C8F91F2809F6000B1223 /* CreateTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C49C8F81F2809F6000B1223 /* CreateTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +27,6 @@
 		7C0962BE1F26ACBC00469F79 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C0962C01F26ACBC00469F79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C41541E1F28BE90002E993B /* CompleteTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompleteTaskViewController.swift; sourceTree = "<group>"; };
-		7C49C8F61F27EF9F000B1223 /* task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = task.swift; sourceTree = "<group>"; };
 		7C49C8F81F2809F6000B1223 /* CreateTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,7 +64,6 @@
 				7C0962B31F26ACBC00469F79 /* TasksViewController.swift */,
 				7C41541E1F28BE90002E993B /* CompleteTaskViewController.swift */,
 				7C49C8F81F2809F6000B1223 /* CreateTaskViewController.swift */,
-				7C49C8F61F27EF9F000B1223 /* task.swift */,
 				7C0962B51F26ACBC00469F79 /* Main.storyboard */,
 				7C0962BB1F26ACBC00469F79 /* Assets.xcassets */,
 				7C0962BD1F26ACBC00469F79 /* LaunchScreen.storyboard */,
@@ -148,7 +145,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7C49C8F71F27EF9F000B1223 /* task.swift in Sources */,
 				7C0962B41F26ACBC00469F79 /* TasksViewController.swift in Sources */,
 				7C41541F1F28BE90002E993B /* CompleteTaskViewController.swift in Sources */,
 				7C0962BA1F26ACBC00469F79 /* ToDoList.xcdatamodeld in Sources */,
